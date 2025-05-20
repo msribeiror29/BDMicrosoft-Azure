@@ -61,6 +61,7 @@ A tabela a seguir fornece detalhes para as informações necessárias no guia B�
 4 Monitorar o progresso da implantação.
 
 4.1 Selecione o ícone Notificações para exibir o status da implantação.
+
 ![Capture antes do 6](https://github.com/user-attachments/assets/3fd7939e-c0a9-4577-b832-799729d48854)
 
 4.2 Selecione Implantação em andamento na notificação para abrir a janela da Instância Gerenciada de SQL e monitorar mais detalhadamente o progresso da implantação.
